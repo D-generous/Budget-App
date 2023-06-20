@@ -41,8 +41,6 @@ function displayItems(){
 }
 
 function editItem(i){
-    // var newItem = editedItem.value
-    // var newPrice = editedPrice.value
     var itemObj={
         myItem: editedItem.value,
         myPrice: editedPrice.value,
